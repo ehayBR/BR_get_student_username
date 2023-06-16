@@ -8,7 +8,7 @@ Instructions:
 *** make sure the fpdf library is included in Python ***
 *** pip install fpdf ***
 
-- download .csv file from learn.blackrocket.com 
+- download .csv file from learn 
   (search by "Manage Users" and enter class ID in search bar)
 - rename .csv to class ID 
   (make sure to be consistant with upper/lowercase, haven't "idiot proofed" it yet)
